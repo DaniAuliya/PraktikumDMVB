@@ -1,0 +1,5 @@
+order_id,order_date,customer_id,name,country,phone,product,amount_usd
+101,2025-08-01,1,Alya,Indonesia,+62 812 3456 789,Notebook,250.0
+102,2025-08-03,2,Budi,Malaysia,+62 12 987 6543,Pens,25.2
+103,2025-08-05,1,Alya,Indonesia,+62 812 3456 789,Backpack,0.0935483870967742
+104,2025-08-06,3,Chen,Singapore,+65 9123 4567,Notebook,207.57
